@@ -1,15 +1,13 @@
-import { useState } from 'react';
 import { motion } from 'motion/react';
-import svgPaths from '../imports/Html→Body-1/svg-qz78m2vtk9';
-import imgFeaturedProduct from '../imports/Html→Body-1/d8526e28d8a95ff9b693ff33dc0a47dc9fb2951d.png';
-import imgProductImage2 from '../imports/Html→Body-1/dbc91cb3bc2af6cbc704640aad61be07f5ae01a5.png';
-import imgManufacturing from '../imports/Html→Body-1/2d0d13262a5d9e2e21ec5033af20cd1572b2367c.png';
-import imgAlifLogoSmall from '../imports/Html→Body-1/d74d545a5d9248647132c2c5961bcd9f84ea9d1b.png';
-import imgProductImage1 from '../imports/Html→Body-1/b4f5892b30afdffc01e58948c326545017619fa0.png';
-import imgProductImage3 from '../imports/Html→Body-1/d69bab64075af79fad0bf49b6dd29299ce293ef2.png';
+import { useState } from 'react';
 import imgWarehouseView1 from '../imports/Html→Body-1/2a53d438f688305c612dff3be1257acdfd26a9b0.png';
 import imgFacilityView from '../imports/Html→Body-1/3ca2956628c37371ec1fe28742abcdaff543166d.png';
+import imgProductImage1 from '../imports/Html→Body-1/b4f5892b30afdffc01e58948c326545017619fa0.png';
 import imgProductionStock from '../imports/Html→Body-1/c9a5804adf5e69ac235b6ab3eccd59675bde7337.png';
+import imgProductImage3 from '../imports/Html→Body-1/d69bab64075af79fad0bf49b6dd29299ce293ef2.png';
+import imgAlifLogoSmall from '../imports/Html→Body-1/d74d545a5d9248647132c2c5961bcd9f84ea9d1b.png';
+import imgProductImage2 from '../imports/Html→Body-1/dbc91cb3bc2af6cbc704640aad61be07f5ae01a5.png';
+import svgPaths from '../imports/Html→Body-1/svg-qz78m2vtk9';
 
 const fadeInUp = {
   initial: { opacity: 0, y: 40 },
@@ -654,7 +652,7 @@ export default function App() {
               © 2024 Alif Steel Mills Ltd. All rights reserved.
             </p>
             <p className="text-[#9ca3af] text-[14px] leading-[20px]">
-              Developed by Fara IT Fusion
+              Developed by CODETREE
             </p>
           </div>
         </div>

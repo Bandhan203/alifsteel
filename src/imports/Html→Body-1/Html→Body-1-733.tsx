@@ -1,13 +1,13 @@
-import svgPaths from "./svg-qz78m2vtk9";
+import imgWarehouseView1 from "./2a53d438f688305c612dff3be1257acdfd26a9b0.png";
+import imgManufacturing from "./2d0d13262a5d9e2e21ec5033af20cd1572b2367c.png";
+import imgFacilityView from "./3ca2956628c37371ec1fe28742abcdaff543166d.png";
+import imgProductImage1 from "./b4f5892b30afdffc01e58948c326545017619fa0.png";
+import imgProductionStock from "./c9a5804adf5e69ac235b6ab3eccd59675bde7337.png";
+import imgProductImage3 from "./d69bab64075af79fad0bf49b6dd29299ce293ef2.png";
+import imgAlifLogoSmall from "./d74d545a5d9248647132c2c5961bcd9f84ea9d1b.png";
 import imgFeaturedProduct from "./d8526e28d8a95ff9b693ff33dc0a47dc9fb2951d.png";
 import imgProductImage2 from "./dbc91cb3bc2af6cbc704640aad61be07f5ae01a5.png";
-import imgManufacturing from "./2d0d13262a5d9e2e21ec5033af20cd1572b2367c.png";
-import imgAlifLogoSmall from "./d74d545a5d9248647132c2c5961bcd9f84ea9d1b.png";
-import imgProductImage1 from "./b4f5892b30afdffc01e58948c326545017619fa0.png";
-import imgProductImage3 from "./d69bab64075af79fad0bf49b6dd29299ce293ef2.png";
-import imgWarehouseView1 from "./2a53d438f688305c612dff3be1257acdfd26a9b0.png";
-import imgFacilityView from "./3ca2956628c37371ec1fe28742abcdaff543166d.png";
-import imgProductionStock from "./c9a5804adf5e69ac235b6ab3eccd59675bde7337.png";
+import svgPaths from "./svg-qz78m2vtk9";
 
 function Margin() {
   return (
@@ -1923,7 +1923,7 @@ function Container64() {
   return (
     <div className="content-stretch flex flex-col items-start relative shrink-0" data-name="Container">
       <div className="flex flex-col font-['Inter:Regular',sans-serif] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[#9ca3af] text-[14px] whitespace-nowrap">
-        <p className="leading-[20px]">Developed by Fara IT Fusion</p>
+        <p className="leading-[20px]">Developed by CODETREE</p>
       </div>
     </div>
   );
